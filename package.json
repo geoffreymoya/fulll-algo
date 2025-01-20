@@ -1,0 +1,13 @@
+{
+    "name": "geoffrey-algo",
+    "version": "1.0.0",
+    "license": "UNLICENSED",
+    "main": "main.js",
+    "type": "module",
+    "dependencies": {
+        "config": "^3.3.12"
+    },
+    "scripts": {
+        "start": "node main.js"
+    }
+}
